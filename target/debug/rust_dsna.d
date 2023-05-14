@@ -1,0 +1,1 @@
+/Users/noraa-stoke/software-dev/rust/rust_dsna/target/debug/rust_dsna: /Users/noraa-stoke/software-dev/rust/rust_dsna/src/is_palindrome.rs /Users/noraa-stoke/software-dev/rust/rust_dsna/src/main.rs /Users/noraa-stoke/software-dev/rust/rust_dsna/src/median_of_sorted_array.rs
