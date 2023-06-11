@@ -1,6 +1,7 @@
 mod median_of_sorted_array;
 mod is_palindrome;
 mod rotate_image;
+mod word_search;
 
 fn main() {
     println!("Median of sorted array: ");
